@@ -1,0 +1,7 @@
+{
+   "name": "codewars-progress",
+   "stack": ["requests"],
+   "sites": ["codewars.com"],
+   "status": true,
+   "last_check": 1753555134,
+}
